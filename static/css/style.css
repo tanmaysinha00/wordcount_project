@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(227, 255, 175);
+}
+
+form {
+  display: inline-block;
+}
+h1 {
+  color: rgb(146, 49, 146);
+  text-align: center;
+  margin-top: 5ex;
+}
+
+.about {
+  margin-top: 4ex;
+}
+textarea {
+  margin-top: 5ex;
+  width: device-width;
+}
+
+input {
+  margin-top: 5ex;
+}
+#copyright {
+  color: rgb(245, 51, 51);
+}
